@@ -2,6 +2,6 @@
 
 <img src="Maquette .jpg">
 <img src="Maquette.jpg">
-<img src="Maquette whatsaap .jpg">
+<img src="maquette whatsaap.jpg">
 
 
